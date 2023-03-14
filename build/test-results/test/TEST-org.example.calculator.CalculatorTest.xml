@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.calculator.CalculatorTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2023-03-14T08:43:01" hostname="DESKTOP-ST7785H" time="0.129">
+  <properties/>
+  <testcase name="multiplication_shouldReturnCorrectMultiplication_withOneNegativeNumber()" classname="org.example.calculator.CalculatorTest" time="0.074"/>
+  <testcase name="multiplication_shouldReturnCorrectMultiplication_withPositiveNumbers()" classname="org.example.calculator.CalculatorTest" time="0.003"/>
+  <testcase name="multiplication_shouldReturnCorrectMultiplication_withNegativeNumbers()" classname="org.example.calculator.CalculatorTest" time="0.003"/>
+  <testcase name="division_shouldReturnCorrectResult_withOnePositiveNumber()" classname="org.example.calculator.CalculatorTest" time="0.002"/>
+  <testcase name="modulo_shouldReturnCorrectValue_withPositiveNumbers()" classname="org.example.calculator.CalculatorTest" time="0.001"/>
+  <testcase name="testDivisionByZero()" classname="org.example.calculator.CalculatorTest" time="0.01"/>
+  <testcase name="modulo_shouldReturnCorrectValue_withNegativeNumbers()" classname="org.example.calculator.CalculatorTest" time="0.002"/>
+  <testcase name="addNumbers_shouldReturnCorrectSum_withOnePositiveNumber()" classname="org.example.calculator.CalculatorTest" time="0.001"/>
+  <testcase name="division_shouldReturnCorrectResult_withPositiveNumbers()" classname="org.example.calculator.CalculatorTest" time="0.001"/>
+  <testcase name="division_shouldReturnCorrectResult_withNegativeNumbers()" classname="org.example.calculator.CalculatorTest" time="0.0"/>
+  <testcase name="addNumbers_shouldReturnCorrectSum_withPositiveNumbers()" classname="org.example.calculator.CalculatorTest" time="0.001"/>
+  <testcase name="addNumbers_shouldReturnCorrectSum_withNegativeNumbers()" classname="org.example.calculator.CalculatorTest" time="0.001"/>
+  <testcase name="subtraction_shouldReturnCorrectSubtraction_withPositiveNumbers()" classname="org.example.calculator.CalculatorTest" time="0.001"/>
+  <testcase name="modulo_shouldReturnCorrectValue_withOneNegativeNumber()" classname="org.example.calculator.CalculatorTest" time="0.001"/>
+  <testcase name="subtraction_shouldReturnCorrectSubtraction_withNegativeNumbers()" classname="org.example.calculator.CalculatorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
